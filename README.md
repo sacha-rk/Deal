@@ -1,2 +1,2 @@
 # deal
-Discard changes in working directory
+Test files only
